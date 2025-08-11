@@ -3,3 +3,16 @@ body{
     padding: 0;
     background-color: greenyellow;
 }
+
+header, footer{
+    width: 100%;
+    background-color:fuchsia;
+}
+
+header{
+    height: 15vh;
+}
+
+footer{
+    height: 5vh;
+}
